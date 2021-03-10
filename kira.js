@@ -1,4 +1,4 @@
-  (function() {
+ (function() {
     var name = '_Q7rDm9rp1XFW6f4L';
     if (!window._Q7rDm9rp1XFW6f4L) {
         window._Q7rDm9rp1XFW6f4L = {
